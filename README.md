@@ -3,8 +3,7 @@
 In this tutorial we will learn how to split each Excel sheet into a separate file and put them on a new and separate directory. However, we will only **copy the values**.
 
 ## Video Tutorial
-
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/J-3UBaP2DfM/0.jpg)](https://youtu.be/J-3UBaP2DfM)
 
 ## Requirements
 ```
